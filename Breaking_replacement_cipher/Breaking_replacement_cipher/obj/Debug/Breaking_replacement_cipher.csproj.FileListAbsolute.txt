@@ -1,0 +1,7 @@
+C:\Users\kolya\source\repos\Breaking_replacement_cipher\Breaking_replacement_cipher\obj\Debug\Breaking_replacement_cipher.csprojAssemblyReference.cache
+C:\Users\kolya\source\repos\Breaking_replacement_cipher\Breaking_replacement_cipher\obj\Debug\Breaking_replacement_cipher.csproj.CoreCompileInputs.cache
+C:\Users\kolya\source\repos\Breaking_replacement_cipher\Breaking_replacement_cipher\bin\Debug\Breaking_replacement_cipher.exe.config
+C:\Users\kolya\source\repos\Breaking_replacement_cipher\Breaking_replacement_cipher\bin\Debug\Breaking_replacement_cipher.exe
+C:\Users\kolya\source\repos\Breaking_replacement_cipher\Breaking_replacement_cipher\bin\Debug\Breaking_replacement_cipher.pdb
+C:\Users\kolya\source\repos\Breaking_replacement_cipher\Breaking_replacement_cipher\obj\Debug\Breaking_replacement_cipher.exe
+C:\Users\kolya\source\repos\Breaking_replacement_cipher\Breaking_replacement_cipher\obj\Debug\Breaking_replacement_cipher.pdb
